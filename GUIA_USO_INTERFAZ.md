@@ -325,4 +325,4 @@
 
 ---
 
-¡Disfruta explorando tu portafolio revolucionario! 🚀
+¡Disfruta explorando tu portafolio! 🚀

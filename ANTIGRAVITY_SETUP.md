@@ -5,7 +5,7 @@
 El proyecto está en:
 
 ```
-C:\Users\Antonio\Desktop\portafolio-revolucionario
+C:\Users\Antonio\Desktop\portafolio-template-main\portafolio-revolucionario
 ```
 
 ---
@@ -22,7 +22,7 @@ C:\Users\Antonio\Desktop\portafolio-revolucionario
 **Opción A: Desde la Interfaz de Antigravity**
 
 1. En Antigravity, ve a `File > Open Folder...` (o `Ctrl+K Ctrl+O`)
-2. Navega a: `C:\Users\Antonio\Desktop\portafolio-revolucionario`
+2. Navega a: `C:\Users\Antonio\Desktop\portafolio-template-main\portafolio-revolucionario`
 3. Selecciona la carpeta y haz clic en "Seleccionar carpeta"
 
 **Opción B: Desde la Terminal**
@@ -31,13 +31,13 @@ C:\Users\Antonio\Desktop\portafolio-revolucionario
 2. Ejecuta:
 
 ```bash
-cd C:\Users\Antonio\Desktop\portafolio-revolucionario
+cd C:\Users\Antonio\Desktop\portafolio-template-main\portafolio-revolucionario
 ```
 
 **Opción C: Arrastrar y Soltar**
 
 1. Abre el explorador de archivos de Windows
-2. Navega a `C:\Users\Antonio\Desktop\portafolio-revolucionario`
+2. Navega a `C:\Users\Antonio\Desktop\portafolio-template-main\portafolio-revolucionario`
 3. Arrastra la carpeta a la ventana de Antigravity
 
 ---
@@ -49,7 +49,7 @@ Una vez abierto el proyecto, usa estos prompts con el agente de IA:
 ### Prompt 1: Explicar el Proyecto al Agente
 
 ```
-Este es un proyecto de portafolio personal revolucionario construido con Next.js 14, TypeScript y Tailwind CSS.
+Este es un proyecto de portafolio personal construido con Next.js 14, TypeScript y Tailwind CSS.
 
 Estructura del proyecto:
 - app/: Next.js App Router con páginas y API routes
@@ -263,6 +263,6 @@ npm run lint
 
 ## 🚀 ¡Listo para Empezar
 
-Una vez que tengas el proyecto abierto en Antigravity, usa los prompts proporcionados para trabajar con el agente de IA y desarrollar tu portafolio revolucionario.
+Una vez que tengas el proyecto abierto en Antigravity, usa los prompts proporcionados para trabajar con el agente de IA y desarrollar tu portafolio.
 
 **¿Necesitas ayuda con algo específico?** El agente de Antigravity puede ayudarte con cualquier aspecto del proyecto.

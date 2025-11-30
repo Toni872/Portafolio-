@@ -1,4 +1,4 @@
-# 🚀 Portafolio Revolucionario
+# 🚀 Portafolio Toni Lloret
 
 Portafolio profesional con características avanzadas: IA, gamificación, analytics y sistema de agentes autónomos.
 

@@ -1,9 +1,8 @@
-# 🚀 Guía de Instalación - Portafolio Revolucionario
+# 🚀 Guía de Instalación - Portafolio Toni Lloret
 
 ## Paso 1: Instalar Dependencias
 
 ```bash
-cd portafolio-revolucionario
 npm install
 ```
 

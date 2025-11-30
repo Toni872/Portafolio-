@@ -9,7 +9,7 @@ Colección de prompts específicos para trabajar con este proyecto en Antigravit
 ### 1. Explicar el Proyecto Completo
 
 ```
-Este es un portafolio personal revolucionario con Next.js 14, TypeScript y Tailwind CSS.
+Este es un portafolio personal con Next.js 14, TypeScript y Tailwind CSS.
 
 Tecnologías principales:
 - Next.js 14 con App Router
@@ -326,5 +326,5 @@ Sigue los patrones ya establecidos en el proyecto.
 
 ---
 
-**¡Usa estos prompts para desarrollar tu portafolio revolucionario con Antigravity!** 🚀
+**¡Usa estos prompts para desarrollar tu portafolio con Antigravity!** 🚀
 
